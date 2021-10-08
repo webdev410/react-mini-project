@@ -1,1 +1,1 @@
-# react-mini-project
+# Bucket List App
